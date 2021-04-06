@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alirezatourany
+- 👋 Hi, I’m alireza tourany
 - 👀 I’m interested in Compter Programming ,Ai ,Problem solving and mathematics .
 - 🌱 I’m currently learning python and cpp .
 - 💞️ I’m looking to collaborate on Ai and creative projects .
