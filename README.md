@@ -1,7 +1,7 @@
 - 👋 Hi, I’m alireza tourany
-- 👀 I’m interested in Compter Programming ,Ai ,Problem solving and mathematics .
-- 🌱 I’m currently learning python and cpp .
-- 💞️ I’m looking to collaborate on Ai and creative projects .
+- 👀 I’m interested in Problem solving ,free softwares ,Ai
+- 🌱 I’m currently learning python and a little cpp .
+- 💞️ I’m looking to collaborate on free software and creative projects .
 - 📫 How to reach me : my email: alireza.tourany@gmail.com
 
 <!---
